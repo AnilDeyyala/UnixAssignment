@@ -1,0 +1,5 @@
+environment:
+  app1.dbname: mongo1
+  app1.dburi: https://testmongodb1.example.com:8080
+  app2.dbname: mongo2
+  app2.dburi: https://testmongodb2.example.com:8080
